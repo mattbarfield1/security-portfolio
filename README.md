@@ -5,6 +5,13 @@
 [![ISC2 Certified in Cybersecurity](https://img.shields.io/badge/ISC2-Certified%20in%20Cybersecurity-blue)](https://www.isc2.org/Certifications/CC) [![NIST CSF](https://img.shields.io/badge/Framework-NIST%20CSF%20v2.0-green)](https://www.nist.gov/cyberframework) [![GRC Focus](https://img.shields.io/badge/Focus-Governance%20Risk%20Compliance-orange)]()
 
 ---
+## About This Portfolio
+
+This portfolio demonstrates end-to-end GRC capabilities through a fictional SaaS security program. The work showcases skills developed through 3+ years of fraud detection, incident investigation, and PCI-DSS compliance enforcement at Lifetime Fitness, combined with hands-on experience securing cloud applications. Each deliverable reflects real-world security operations translated into formal governance documentation.
+
+**Key Focus Areas:** Risk assessment, compliance framework mapping (NIST CSF), incident response procedures, access control design, and security control documentation.
+
+---
 
 This repository demonstrates an end-to-end security program for FitTrack Pro, a fictional SaaS fitness tracking application. It showcases my skills in cybersecurity governance, risk, and compliance (GRC), drawing from my experience in incident response, fraud detection, PCI-DSS enforcement, and secure app development.
 
@@ -45,3 +52,14 @@ This project is organized into modular phases, covering the full security lifecy
 * **Cloud Security:** GCP/Firebase IAM Hardening, Secret Management, Cloud Logging.
 * **Threat Intelligence:** STRIDE Threat Modeling, Custom Alert Logic (SIEM/EDR mindset).
 * **Incident Management:** Root Cause Analysis (RCA), Containment Strategies.
+---
+
+## Connect With Me
+
+I'm actively seeking entry-level GRC Analyst or Compliance Analyst opportunities where I can apply my incident investigation, risk assessment, and compliance experience to support organizational security programs.
+
+📫 **Contact:** mattbarfield1@gmail.com  
+💼 **LinkedIn:** [matthew-barfield-grc](https://www.linkedin.com/in/matthew-barfield-grc/)  
+📄 **Resume:** [View My Resume](link-to-your-resume-pdf-or-google-drive)
+
+*Open to opportunities in: Governance, Risk & Compliance | Security Operations | Compliance Analysis | Risk Management*
