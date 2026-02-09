@@ -59,7 +59,7 @@ This project is organized into modular phases, covering the full security lifecy
 
 ## Connect With Me
 
-I'm actively seeking entry-level GRC Analyst or Compliance Analyst opportunities where I can apply my incident investigation, risk assessment, and compliance experience to support organizational security programs.
+I'm actively seeking GRC Analyst or Compliance Analyst opportunities where I can apply my incident investigation, risk assessment, and compliance experience.
 
 📫 **Contact:** mattbarfield1@gmail.com  
 💼 **LinkedIn:** [matthew-barfield-grc](https://www.linkedin.com/in/matthew-barfield-grc/)  
