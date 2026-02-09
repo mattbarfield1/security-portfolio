@@ -1,6 +1,10 @@
-# security-portfolio
-Security Portfolio | Defensive Security, GRC, and Cloud Fundamentals
 # FitTrack Pro Security Portfolio
+
+**By Matthew Barfield** | [LinkedIn](https://www.linkedin.com/in/matthew-barfield-grc/) | mattbarfield1@gmail.com
+
+[![ISC2 Certified in Cybersecurity](https://img.shields.io/badge/ISC2-Certified%20in%20Cybersecurity-blue)](https://www.isc2.org/Certifications/CC) [![NIST CSF](https://img.shields.io/badge/Framework-NIST%20CSF%20v2.0-green)](https://www.nist.gov/cyberframework) [![GRC Focus](https://img.shields.io/badge/Focus-Governance%20Risk%20Compliance-orange)]()
+
+---
 
 This repository demonstrates an end-to-end security program for FitTrack Pro, a fictional SaaS fitness tracking application. It showcases my skills in cybersecurity governance, risk, and compliance (GRC), drawing from my experience in incident response, fraud detection, PCI-DSS enforcement, and secure app development.
 
