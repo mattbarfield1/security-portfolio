@@ -8,8 +8,13 @@
 ## About This Portfolio
 
 This portfolio demonstrates end-to-end GRC capabilities through a fictional SaaS security program. The work showcases skills developed through 3+ years of fraud detection, incident investigation, and PCI-DSS compliance enforcement at Lifetime Fitness, combined with hands-on experience securing cloud applications. Each deliverable reflects real-world security operations translated into formal governance documentation.
-
 **Key Focus Areas:** Risk assessment, compliance framework mapping (NIST CSF), incident response procedures, access control design, and security control documentation.
+
+## Table of Contents
+- [Fictional Company Overview](#fictional-company-overview)
+- [Project Roadmap & Security Deliverables](#project-roadmap--security-deliverables)
+- [Technical Skills Demonstrated](#technical-skills-demonstrated)
+- [Connect With Me](#connect-with-me)
 
 ---
 
