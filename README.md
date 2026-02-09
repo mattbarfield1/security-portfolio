@@ -63,6 +63,6 @@ I'm actively seeking GRC Analyst or Compliance Analyst opportunities where I can
 
 📫 **Contact:** mattbarfield1@gmail.com  
 💼 **LinkedIn:** [matthew-barfield-grc](https://www.linkedin.com/in/matthew-barfield-grc/)  
-📄 **Resume:** [View My Resume](https://drive.google.com/file/d/1PymVrf2F-FabCBFdkPxAqRKoJU-GQnId/view?usp=sharing)
+📄 **Resume:** [View My Resume](https://docs.google.com/document/d/11j7yx5Nkfmr7T-e7wQktyStoxdVbWzNh/edit?usp=drive_link&ouid=103440986515006912895&rtpof=true&sd=true)
 
 *Open to opportunities in: Governance, Risk & Compliance | Security Operations | Compliance Analysis | Risk Management*
