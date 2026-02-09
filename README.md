@@ -13,8 +13,6 @@ This portfolio demonstrates end-to-end GRC capabilities through a fictional SaaS
 
 ---
 
-This repository demonstrates an end-to-end security program for FitTrack Pro, a fictional SaaS fitness tracking application. It showcases my skills in cybersecurity governance, risk, and compliance (GRC), drawing from my experience in incident response, fraud detection, PCI-DSS enforcement, and secure app development.
-
 ## Fictional Company Overview
 FitTrack Pro is a web-based SaaS platform that allows users to track workouts, create programs, and subscribe to premium features. It serves individual users, with a focus on user privacy and secure payments.
 
